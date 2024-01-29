@@ -10,3 +10,5 @@ The databases use [docker-compose](https://docs.docker.com/compose/)
 ```bash
 docker-compose up
 ```
+
+This repo is written as a part of this [blog post](https://medium.com/@anasmohammed361/databases-with-docker-10db1824c0eb).
